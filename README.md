@@ -1,4 +1,4 @@
-# Giphy Coding Challenge
+# Unsplash Coding Challenge
 
 Our goal with this challenge is to get a sense for how you write code and solve problems.
 
