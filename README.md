@@ -4,17 +4,15 @@ Our goal with this challenge is to get a sense for how you write code and solve 
 
 ## Task
 
-Please write a minimal React app (CRA, Next.js or whatever you prefer), that implements a simple search for Images via the [Unsplash API](https://unsplash.com/documentation).
-
-![](assets/design.png)
+Please write a minimal React app (CRA, Next.js or whatever you prefer), that implements a simple search for Unsplash pictures via the [Unsplash API](https://unsplash.com/developers).
 
 Therefore, you will need to implement a single view 4 different states.
 
 Pressing the initially visible button, reveals the search form with an input field.
 
-After entering a search term in the input field, 12 Images should be fetched from the Giphy API and displayed in a scrollable grid below.
+After entering a search term in the input field, 9 pictures should be fetched from the Unsplash API and displayed in a scrollable grid below.
 
-Clicking on a Image in the grid, selects the Image and displays it on its own.
+Clicking on a picture in the grid, selects the picture and displays it on its own.
 
 Please fork this repository and deliver your code as a Pull Request on GitHub. Make sure to document how to run your application.
 
