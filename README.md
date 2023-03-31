@@ -4,7 +4,7 @@ Our goal with this challenge is to get a sense for how you write code and solve 
 
 ## Task
 
-Please write a minimal React app (CRA, Next.js or whatever you prefer), that implements a simple search for Images via the [Unsplash API](https://unsplash.com/documentation#:~:text=The%20Unsplash%20API%20is%20made,and%20follow%20the%20API%20guidelines.).
+Please write a minimal React app (CRA, Next.js or whatever you prefer), that implements a simple search for Images via the [Unsplash API](https://unsplash.com/documentation).
 
 ![](assets/design.png)
 
